@@ -2,10 +2,9 @@
 
 ## Team Members
 
-- **Sumit Rodrigues** - 885164426 - sumit.rodrigues@csu.fullerton.edu
-- **Sanjyot Satvi** - 885146977 - satvi.sanjyot@csu.fullerton.edu
-- **Abhinav Singh** - 884448622 - abhinavsingh@csu.fullerton.edu
-- **Aditya Singh** - 884448614 - singhaditya@csu.fullerton.edu
+Sarita Joshi
+Hritika Phule
+Hitesh Mali
 
 ## Project Overview
 
